@@ -6,6 +6,7 @@ SQL is a standard language for storing, manipulating, and retrieving data in dat
 ## Steps
 First created a Database named Record_Company
 In this Database Created tables called bands,albums and songs.These tables are inter-related with the below keys.
+
 The table-bands have id as Primary key and name column.
 The table-albums have id as Primary key and band_id Foreign key.
 The table-songs have id as Primary key  and album_id as Foreign key.
